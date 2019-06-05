@@ -1,5 +1,5 @@
 # CYB 216 Programming for Cybersecurity Course Wiki
-This wiki contains the references and links used in the CYB 216 class.
+**This wiki contains the references and links used in the CYB 216 class.**
 ## Course Description
 This course introduces the fundamental concepts of programming for cybersecurity professionals. A survey of program tools will be conducted. The use of PowerShell, scripting, and python to implement system security will be covered in this class.
 
