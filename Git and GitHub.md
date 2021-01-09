@@ -9,6 +9,8 @@
 ### Lynda.com (NU SSO Required)
 [Learning Git and GitHub][6]  
 [Git Essential Training][7]  
+## Labs
+[Learn Git Branching][8]
 
 [1]:	https://git-scm.com/book/en/v2 "Pro Got Book"
 [2]:	https://github.com "GitHub"
@@ -17,3 +19,4 @@
 [5]:	http://swcarpentry.github.io/git-novice/ "Version Control with Git"
 [6]:	https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html?org=nu.edu "Learning Git and GitHub"
 [7]:	https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html?org=nu.edu "Git Essential Training"
+[8]:  https://learngitbranching.js.org/ "Learn Git Branching"
